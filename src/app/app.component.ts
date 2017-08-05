@@ -12,6 +12,8 @@ import { AuthService } from './auth.service';
 })
 export class AppComponent {
 
+  //Comentario de prueba para github
+
   /*
   items: FirebaseListObservable<any[]>;
   sizeSubject: Subject<any>;
